@@ -11,3 +11,5 @@ In this challenge, I finished the Javascript coding to complete the Password Gen
 
 
 https://jaredwoodcock.github.io/password-generator/
+
+![_C__Users_jared_bootcamp_03-Module-Challenge_Password-Generator_index html (1)](https://github.com/JaredWoodcock/password-generator/assets/144859311/7aee1d61-ac16-400e-9407-a57507f5ca93)
