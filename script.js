@@ -31,7 +31,7 @@ function writePassword() {
 
   // the below if statement will give an error alert if the user enters in anything outside the 8-128 range or something that's not a number, and will also throw an error if none of the character types are selected
   if (passwordLength < 8 || passwordLength > 128 || isNaN(parseInt(passwordLength))) {
-    alert("Please enter a number between 8 and 128");
+    alert("Please enter a password length between 8 and 128 characters");
   } else if (!lowercase && !uppercase && !numbers && !specialCharacters) {
     alert("Please select at least one type of character to include in your password");
   } else { 
